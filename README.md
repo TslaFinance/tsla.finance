@@ -46,3 +46,14 @@ TSLA-USDT JUSTSWAP LP: 50%, 200,000 TSLA
 ## Pool v3
 
 200,000 token Reversed. The radio of the farms will be choosen carefully to attract a broad and vision-aligned community to steward the future of the protocol and token. This is determined and governed by TSLA holders.
+
+## Rebase
+
+Automatically start when the total token output reaches 97%, or mandatory start at the end of the fourth week. At that time, the number of tokens held by each person will be increased or decreased in proportion to the extent of exchange rate fluctuations in the past 24 hours.
+
+TSLA Contract Address：
+Pool v1 Contract Address：
+Pool v2 Contract Address：
+
+TSLA webpage：
+Mine liquidity here:
