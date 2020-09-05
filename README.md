@@ -20,21 +20,21 @@ Just enjoy the dual benefits of yield farming and elastic tokens.
 
 ## Pool v1
 
-Pool v1 launches at 09:00, 5 September 2020 (GMT-7). A total of 400,000 TSLA tokens are distributed, halved every 24 hours, and 150,000 can be mined on the first day. Users can get TSLA token rewards by staking JST/CRT/TAI/USDT tokens, at tsla.finance, with following supply details:
+Pool v1 launches at 09:00, 5 September 2020 (GMT-7). A total of 400,000 TSLA tokens are distributed, halved every 24 hours, and 150,000 can be mined on the first day. Users can get TSLA token rewards by staking USDT/JST/CRT/TAI tokens, at tsla.finance, with following supply details:
 
 
-JST:  40%, 160,000 TSLA
+USDT:  50%, 200,000 TSLA
 
-CRT:  30%, 120,000 TSLA
+JST:  20%, 80,000 TSLA
 
-TAI:  20%, 80,000 TSLA
+CRT:  20%, 80,000 TSLA
 
-USDT: 10%, 40,000 TSLA
+TAI:  10%, 40,000 TSLA
 
 
 ## Pool v2
 
-Pool v2 launches at 09:00, 6 September 2020 (GMT-7). A total of 400,000 TSLA tokens are distributed, halved every 72 hours, and 250,000 can be mined in the first period. Users obtain TSLA token rewards by providing TSLA-TRX and TSLA-USDT liquidity on JustSwap, stake TSLA-TRX and TSLA-USDT tokens at tsla.finance to get TSLA as rewards.
+Pool v2 launches at 09:00, 6 September 2020 (GMT-7). A total of 400,000 TSLA tokens are distributed, halved every 72 hours, and 200,000 can be mined in the first period. Users obtain TSLA token rewards by providing TSLA-TRX and TSLA-USDT liquidity on JustSwap, stake TSLA-TRX and TSLA-USDT tokens at tsla.finance to get TSLA as rewards.
 
 Please note Tronscan explorer currently is unable to show LP tokens.
 
